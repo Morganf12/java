@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ faceNorth()
+comment1.params=
+comment1.target=void\ turnRight()
+comment2.params=
+comment2.target=boolean\ hasRightWall()
+comment3.params=
+comment3.target=void\ climbDownWithoutCrashingIntoGround()
+comment4.params=
+comment4.target=void\ faceSouth()
+comment5.params=
+comment5.target=void\ celebrate()
+numComments=6

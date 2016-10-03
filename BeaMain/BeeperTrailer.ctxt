@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ followBeeperTrail()
+comment1.params=
+comment1.target=boolean\ hasFrontBeeper()
+comment2.params=
+comment2.target=boolean\ hasLeftBeeper()
+comment3.params=
+comment3.target=void\ turnAround()
+comment4.params=
+comment4.target=void\ turnAroundLeft()
+comment5.params=
+comment5.target=void\ turnRight()
+comment6.params=
+comment6.target=void\ getBeeperFront()
+comment7.params=
+comment7.target=void\ getBeeperLeft()
+comment8.params=
+comment8.target=void\ getBeeperRight()
+numComments=9

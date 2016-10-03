@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ carpetifRoom()
+comment1.params=
+comment1.target=boolean\ isRoom()
+comment2.params=
+comment2.target=boolean\ hasWestWall()
+comment3.params=
+comment3.target=boolean\ hasNorthWall()
+comment4.params=
+comment4.target=boolean\ hasEastWall()
+comment5.params=
+comment5.target=void\ enter()
+comment6.params=
+comment6.target=void\ exit()
+comment7.params=
+comment7.target=void\ turnRight()
+numComments=8
